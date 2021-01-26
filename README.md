@@ -10,35 +10,42 @@ Narrator Voice-Over files for the PS1 Version of Populous: The Beginning.
 	- Progress: ![100%](https://progress-bar.dev/100)
 	-	Voice Actor:  [Robert Ashby (RIP  1940- 2019)](https://www.imdb.com/name/nm0038754/)
 	-	Contributors:
-		-	[Lovenji_OP](https://www.popre.net/user.php?mode=viewprofile&u=66770)
+		-	[Lovenji_OP](https://www.popre.net/user.php?u=66770)
 		-	[[AsG]Sub_Zero](https://www.popre.net/user.php?u=1739) 
  - French
 	 - Progress: ![0%](https://progress-bar.dev/0) 
 	 - Voice Actor:
-	 - Contributors 
+	 - Contributors: 
+		 - [Unknown_TAS (ATB)](https://www.popre.net/user.php?u=35004) 
 	 
  - German 
 	- Progress: ![0%](https://progress-bar.dev/0) 
 	- Voice Actor:
-	- Contributors 
+	- Contributors:
+		- [Unknown_TAS (ATB)](https://www.popre.net/user.php?u=35004) 
  - Italian  
 	- Progress: ![0%](https://progress-bar.dev/0) 
 	- Voice Actor:
-	- Contributors 
+	- Contributors: 
+		- [Unknown_TAS (ATB)](https://www.popre.net/user.php?u=35004)
 - Spanish  
-	- Progress: ![0%](https://progress-bar.dev/0) 
+	- Progress: ![100%](https://progress-bar.dev/100) 
 	- Voice Actor:
-	- Contributors 
+	- Contributors:
+		- 	[Unknown_TAS (ATB)](https://www.popre.net/user.php?u=35004)
+		-	[Lucas](https://www.popre.net/user.php?u=1739)  
 - Swedish  
 	- Progress: ![0%](https://progress-bar.dev/0) 
 	- Voice Actor:
-	- Contributors 
+	- Contributors: 
+		- 	[Unknown_TAS (ATB)](https://www.popre.net/user.php?u=35004)
 - Dutch  
 	- Progress: ![0%](https://progress-bar.dev/0) 
 	- Voice Actor:
-	- Contributors 
+	- Contributors: 
+		- [Unknown_TAS (ATB)](https://www.popre.net/user.php?u=35004)
+		- [[AvA]Ralicarne](https://www.popre.net/user.php?u=40158)
 			
-
 
 ### Tools
 
