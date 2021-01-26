@@ -40,8 +40,8 @@ Narrator Voice-Over files for the PS1 Version of Populous: The Beginning.
 	- Contributors: 
 		- 	[Unknown_TAS (ATB)](https://www.popre.net/user.php?u=35004)
 - Dutch  
-	- Progress: ![0%](https://progress-bar.dev/0) 
-	- Voice Actor:
+	- Progress: ![100%](https://progress-bar.dev/100) 
+	- Voice Actor: [Hero Muller](https://www.imdb.com/name/nm0612156/)
 	- Contributors: 
 		- [Unknown_TAS (ATB)](https://www.popre.net/user.php?u=35004)
 		- [[AvA]Ralicarne](https://www.popre.net/user.php?u=40158)
